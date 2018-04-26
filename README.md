@@ -1,5 +1,5 @@
 # openshift-tiller-installer
-docker container for deploying tiller (the helm server-side component) on openshift
+Docker container for deploying tiller (the helm server-side component) on openshift
 
 ## Build and Run locally
 
